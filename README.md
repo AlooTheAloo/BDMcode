@@ -1,6 +1,6 @@
 # BDMcode
 
-## BDMcode is the most ambitious programming language in history 
+## BDMcode is the most serious and ambitious programming language in history 
 
 
 
