@@ -79,3 +79,17 @@ returns
 for x in range(5):
   print(x)
 ```
+### Why on earth should I use this?  
+  - This is a universal programming language. It can work in combination with *any other* language you use, so no need to learn any syntax!  
+  - It's simple! It only contains 11 different characters!  
+  - Works like a charm in any text editor! IntelliSense? What's that? Simply use your clipboard to save the string 'boitedemouchoir' and ctrl+V your way into writing code, the       way it was always intended.
+  - You can now officially say that OOP is made exclusively by 'boite de mouchoir'
+
+### Why did you make this?
+I missed a question in a test on accident in a programming quiz where I chose the option "All OOP is made from boite de mouchoir"  
+and thought it would be funny if I made it a reality
+
+
+#### The best programming language evver
+##### - Me, 2022
+
