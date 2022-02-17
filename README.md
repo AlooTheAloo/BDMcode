@@ -1,7 +1,8 @@
 # BDMcode
 
 ## BDMcode is the most serious and ambitious programming language in history 
-
+#### The best programming language ever
+##### -Me, 2022
 
 
 ### How does it work?  
@@ -90,6 +91,5 @@ I missed a question in a test on accident in a programming quiz where I chose th
 and thought it would be funny if I made it a reality
 
 
-#### The best programming language ever
-##### -Me, 2022
+
 
