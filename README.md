@@ -73,4 +73,5 @@ boitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboite
 boitedemouchoirboitedemouchoirboitedemouc
 ```
 returns 
-'for 
+'for x in range(5):
+  print(x)'
