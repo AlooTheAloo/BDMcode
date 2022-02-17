@@ -87,7 +87,7 @@ for x in range(5):
   - You can now officially say that OOP is made exclusively by 'boite de mouchoir'
 
 ### Why did you make this?
-I missed a question in a test on accident in a programming quiz where I chose the option "All OOP is made from boite de mouchoir"  
+I missed a question on accident in a programming quiz where I chose the option "All OOP is made from boite de mouchoir"  
 and thought it would be funny if I made it a reality
 
 
