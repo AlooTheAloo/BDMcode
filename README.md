@@ -15,6 +15,7 @@ Enter three newlines to create a newline
 Make any character in a line a capital letter to make the entire character a capital letter (if it is a letter).  
 
 ### Code examples
+#### A simple print
 ```
 boitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboite
 boitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboitede
@@ -39,8 +40,9 @@ boitedemouchoirboitedemouchoirboi
 boitedemouchoirboitedemouchoirboit
 boitedemouchoirboitedemouchoirboitedemouc
 ```
-returns 'print("HELLO WORLD !")'
+returns ```'print("HELLO WORLD !")' ```
 
+### A basic for loop
 ```
 boitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboitedemou
 boitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboit
@@ -73,5 +75,7 @@ boitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboitedemouchoirboite
 boitedemouchoirboitedemouchoirboitedemouc
 ```
 returns 
-'for x in range(5):
-  print(x)'
+```
+for x in range(5):
+  print(x)
+```
