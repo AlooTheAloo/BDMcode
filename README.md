@@ -6,7 +6,7 @@
 
 ### How does it work?
 BDMcode can only be written using the string "boitedemouchoir". 
-every line in a file (ending with .bdm) will represent a character that will be printed to the screen.
+Every line in a file (ending with .bdm) will represent a character that will be printed to the screen.
 
 ### What are the core features?
 The length of a line (in characters) represents the ascii code of the character you are about to print.
